@@ -547,7 +547,7 @@ footer p {
 }
 @media only screen and (max-width: 480px) {
   #services {
-    height: 270vh;
+    height: 250vh;
   }
   .service-container {
     display: block;
@@ -772,7 +772,7 @@ label.active {
 }
 @media only screen and (max-width: 480px) {
   #contacts {
-    height: 180vh;
+    height: 170vh;
   }
   
   .contact-content {
